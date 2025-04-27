@@ -31,6 +31,7 @@ function playRound(humanChoice, computerChoice) {
   }
 }
 
+// This is a test commit to practice Git
 
 
 
