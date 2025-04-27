@@ -31,7 +31,7 @@ function playRound(humanChoice, computerChoice) {
   }
 }
 
-function playGame() {
+function playGame() { // main function
   let humanScore = 0;
   let computerScore = 0;
 
